@@ -61,4 +61,4 @@ jobs:
           app-name: 'clouddev3'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_451CB865F9D94269A55679AD01DA80C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B97EAAB5C2DA4DEDBC360D2EC2BF57ED }}
